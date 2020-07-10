@@ -1,4 +1,4 @@
-# FastFingersEquivalent
+# Fast fingers equivalent
 This is desktop application that can change you web site fast fingers.
 
 I'm planing to make a change for fast finger because it isn't convenietly in all situations. When you are not online you have to use desktop software and I think that this software should have deep setings.
